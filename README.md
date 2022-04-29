@@ -1,4 +1,4 @@
-### Hi friend, are you all right? I'm D.a and welcome to my world. 😎
+# I'm D.a and welcome to my world. 😎
 
 <div align="center">
   
