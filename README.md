@@ -1,6 +1,6 @@
 # WELCOME 😎
 
-<div align="center">
+<div>
   
   <a href="https://github.com/danieldificil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldificil&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
