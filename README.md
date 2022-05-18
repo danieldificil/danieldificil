@@ -24,7 +24,7 @@
  
 </div>
 
-  ## PLANNING YOUR BUDGET WITH REACT.JS!!! [WORK IN PROGRESS]
+  ## LAST WORK
   <div>
-    <p>https://react-planning.netlify.app/</p>
+    <p><a href="https://react-planning.netlify.app/" target="_blank">PLANNING YOUR BUDGET WITH REACT.JS!!!</a></p> [WORK IN PROGRESS]
   </div>
