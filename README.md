@@ -26,5 +26,5 @@
 
   ## LAST WORK
   <div>
-    <p><a href="https://react-planning.netlify.app/" target="_blank">PLANNING YOUR BUDGET WITH REACT.JS!!!</a></p> <strong>!!! WORK IN PROGRESS... !!!</strong>
+    <p><a href="https://react-planning.netlify.app/" target="_blank">PLANNING YOUR BUDGET WITH REACT.JS!!!</a></p> <strong>[WORK IN PROGRESS...]</strong>
   </div>
