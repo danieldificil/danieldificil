@@ -23,8 +23,3 @@
   <a href="https://www.instagram.com/daniel.dificil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
-
-  ## LAST WORK
-  <div>
-    <p><a href="https://react-planning.netlify.app/" target="_blank">PLANNING YOUR BUDGET WITH REACT.JS!!!</a></p> <strong>[WORK IN PROGRESS...]</strong>
-  </div>
