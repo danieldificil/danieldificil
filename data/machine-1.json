@@ -1,0 +1,99 @@
+{
+ "active_clients": 0,
+ "agents": [
+  "chopper",
+  "franky",
+  "korosensei",
+  "nami",
+  "robin",
+  "vegapunk"
+ ],
+ "events": [
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-10-29",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-10-28",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-10-28",
+   "type": "routine"
+  },
+  {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-10-28",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-10-28",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-10-28",
+   "type": "routine"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-10-27",
+   "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-10-27",
+   "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-10-27",
+   "type": "task"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-10-27",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-10-27",
+   "type": "routine"
+  },
+  {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-10-27",
+   "type": "task"
+  }
+ ],
+ "generated_on": "2026-10-29",
+ "last_action": {
+  "agent": "nami",
+  "on": "2026-10-29"
+ },
+ "machine": "machine-1",
+ "metrics": {
+  "pre_review_blocks": 0,
+  "prs_fixed": 2,
+  "qa_catches": 0,
+  "tasks": 17
+ },
+ "sector": "Engineering",
+ "window_days": 7
+}

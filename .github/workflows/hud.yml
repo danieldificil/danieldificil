@@ -1,0 +1,43 @@
+name: hud
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'config/**'
+      - 'scripts/**'
+  schedule:
+    - cron: '7 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hud
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run tests
+        run: python3 -m unittest discover tests
+      - name: Generate svg
+        run: python3 scripts/generate.py
+      - name: Commit svg
+        run: |
+          if [ -z "$(git status --porcelain svg/)" ]; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add svg/
+          git commit -m 'chore: svg'
+          git pull --rebase
+          git push

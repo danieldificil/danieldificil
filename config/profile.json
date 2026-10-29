@@ -1,0 +1,19 @@
+{
+  "name": "DANIEL CANUTO",
+  "subtitle": "software engineer · founder of DificilTech · Sorocaba, Brazil",
+  "flight_path": [
+    {"tech": "JS / Node", "year": 2020},
+    {"tech": "Vue 3", "year": 2021},
+    {"tech": "MongoDB / Mongoose", "year": 2021},
+    {"tech": "SQL + ORMs", "year": 2022},
+    {"tech": "React", "year": 2022},
+    {"tech": "Docker", "year": 2022},
+    {"tech": "TypeScript", "year": 2023},
+    {"tech": "Postgres / Prisma", "year": 2023},
+    {"tech": "Next", "year": 2023},
+    {"tech": "AWS / K8s", "year": 2023},
+    {"tech": "Python", "year": 2024},
+    {"tech": "AI agents", "year": 2026, "highlight": true}
+  ],
+  "status": "● accepting missions"
+}
