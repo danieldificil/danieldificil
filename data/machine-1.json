@@ -12,87 +12,87 @@
   {
    "agent": "nami",
    "n": 1,
-   "on": "2026-10-29",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-10-28",
+   "on": "2026-11-04",
    "type": "routine"
   },
   {
    "agent": "robin",
    "n": 1,
-   "on": "2026-10-28",
-   "type": "routine"
-  },
-  {
-   "agent": "vegapunk",
-   "n": 1,
-   "on": "2026-10-28",
-   "type": "task"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-10-28",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-10-28",
+   "on": "2026-11-04",
    "type": "routine"
   },
   {
    "agent": "korosensei",
    "n": 1,
-   "on": "2026-10-27",
+   "on": "2026-11-04",
    "type": "task"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-10-27",
-   "type": "task"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-10-27",
-   "type": "task"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-10-27",
-   "type": "routine"
   },
   {
    "agent": "nami",
    "n": 1,
-   "on": "2026-10-27",
+   "on": "2026-11-04",
    "type": "routine"
   },
   {
-   "agent": "vegapunk",
+   "agent": "korosensei",
    "n": 1,
-   "on": "2026-10-27",
+   "on": "2026-11-04",
+   "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-04",
+   "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-04",
+   "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-04",
+   "type": "task"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-04",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "franky",
+   "n": 2,
+   "on": "2026-11-04",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-04",
+   "type": "task"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-04",
    "type": "task"
   }
  ],
- "generated_on": "2026-10-29",
+ "generated_on": "2026-11-04",
  "last_action": {
   "agent": "nami",
-  "on": "2026-10-29"
+  "on": "2026-11-04"
  },
  "machine": "machine-1",
  "metrics": {
   "pre_review_blocks": 0,
-  "prs_fixed": 2,
+  "prs_fixed": 5,
   "qa_catches": 0,
-  "tasks": 17
+  "tasks": 19
  },
  "sector": "Engineering",
  "window_days": 7
