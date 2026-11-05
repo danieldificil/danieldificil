@@ -10,12 +10,6 @@
  ],
  "events": [
   {
-   "agent": "vegapunk",
-   "n": 1,
-   "on": "2026-11-04",
-   "type": "task"
-  },
-  {
    "agent": "nami",
    "n": 1,
    "on": "2026-11-04",
@@ -80,11 +74,17 @@
    "n": 1,
    "on": "2026-11-02",
    "type": "routine"
+  },
+  {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-10-31",
+   "type": "routine"
   }
  ],
  "generated_on": "2026-11-04",
  "last_action": {
-  "agent": "vegapunk",
+  "agent": "nami",
   "on": "2026-11-04"
  },
  "machine": "machine-2",
@@ -92,7 +92,7 @@
   "pre_review_blocks": 0,
   "prs_fixed": 1,
   "qa_catches": 0,
-  "tasks": 3
+  "tasks": 2
  },
  "sector": "Engineering",
  "window_days": 7
