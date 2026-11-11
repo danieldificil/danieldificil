@@ -10,6 +10,48 @@
  ],
  "events": [
   {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-10",
+   "type": "routine"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-10",
+   "type": "task"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-10",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-10",
+   "type": "routine"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-10",
+   "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-10",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-10",
+   "type": "routine"
+  },
+  {
    "agent": "korosensei",
    "n": 1,
    "on": "2026-11-09",
@@ -37,62 +79,20 @@
    "agent": "korosensei",
    "n": 1,
    "on": "2026-11-09",
-   "type": "task"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-09",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-07",
-   "type": "routine"
-  },
-  {
-   "agent": "franky",
-   "n": 1,
-   "on": "2026-11-06",
-   "type": "routine"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-06",
-   "type": "task"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-06",
-   "type": "task"
-  },
-  {
-   "agent": "franky",
-   "n": 0,
-   "on": "2026-11-06",
-   "type": "franky_fixed"
-  },
-  {
-   "agent": "franky",
-   "n": 1,
-   "on": "2026-11-06",
    "type": "task"
   }
  ],
- "generated_on": "2026-11-09",
+ "generated_on": "2026-11-10",
  "last_action": {
-  "agent": "korosensei",
-  "on": "2026-11-09"
+  "agent": "nami",
+  "on": "2026-11-10"
  },
  "machine": "machine-1",
  "metrics": {
   "pre_review_blocks": 0,
-  "prs_fixed": 5,
+  "prs_fixed": 4,
   "qa_catches": 0,
-  "tasks": 24
+  "tasks": 21
  },
  "sector": "Engineering",
  "window_days": 7
