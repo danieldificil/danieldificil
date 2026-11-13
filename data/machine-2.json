@@ -6,93 +6,94 @@
   "korosensei",
   "nami",
   "robin",
-  "vegapunk"
+  "vegapunk",
+  "yumi"
  ],
  "events": [
   {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
    "agent": "franky",
    "n": 2,
-   "on": "2026-11-11",
-   "type": "franky_fixed"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "vegapunk",
-   "n": 1,
-   "on": "2026-11-10",
-   "type": "task"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-10",
-   "type": "delivery"
-  },
-  {
-   "agent": "franky",
-   "n": 0,
-   "on": "2026-11-10",
+   "on": "2026-11-12",
    "type": "franky_fixed"
   },
   {
    "agent": "franky",
    "n": 1,
-   "on": "2026-11-10",
-   "type": "task"
+   "on": "2026-11-12",
+   "type": "franky_fixed"
   },
   {
    "agent": "nami",
    "n": 1,
-   "on": "2026-11-10",
-   "type": "delivery"
+   "on": "2026-11-12",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-12",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-12",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-12",
+   "type": "routine"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-12",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-11",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-11",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-11",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-11",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-11",
+   "type": "routine"
   }
  ],
- "generated_on": "2026-11-11",
+ "generated_on": "2026-11-12",
  "last_action": {
-  "agent": "nami",
-  "on": "2026-11-11"
+  "agent": "franky",
+  "on": "2026-11-12"
  },
  "machine": "machine-2",
  "metrics": {
   "pre_review_blocks": 0,
-  "prs_fixed": 2,
+  "prs_fixed": 4,
   "qa_catches": 0,
-  "tasks": 4
+  "tasks": 5
  },
  "sector": "Engineering",
  "window_days": 7
