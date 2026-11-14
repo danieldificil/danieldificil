@@ -10,89 +10,89 @@
  ],
  "events": [
   {
-   "agent": "franky",
-   "n": 2,
-   "on": "2026-11-11",
-   "type": "franky_fixed"
-  },
-  {
-   "agent": "nami",
+   "agent": "robin",
    "n": 1,
-   "on": "2026-11-11",
+   "on": "2026-11-13",
    "type": "routine"
   },
   {
-   "agent": "franky",
-   "n": 14,
-   "on": "2026-11-11",
-   "type": "franky_fixed"
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "chopper",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
   },
   {
    "agent": "korosensei",
    "n": 1,
-   "on": "2026-11-11",
-   "type": "task"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "task"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "task"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-11",
+   "on": "2026-11-13",
    "type": "routine"
   }
  ],
- "generated_on": "2026-11-11",
+ "generated_on": "2026-11-13",
  "last_action": {
-  "agent": "franky",
-  "on": "2026-11-11"
+  "agent": "robin",
+  "on": "2026-11-13"
  },
  "machine": "machine-1",
  "metrics": {
-  "pre_review_blocks": 0,
-  "prs_fixed": 3,
+  "pre_review_blocks": 1,
+  "prs_fixed": 1,
   "qa_catches": 0,
-  "tasks": 18
+  "tasks": 10
  },
  "sector": "Engineering",
  "window_days": 7
