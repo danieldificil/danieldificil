@@ -11,89 +11,89 @@
  ],
  "events": [
   {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "task"
+  },
+  {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "routine"
+  },
+  {
+   "agent": "robin",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "routine"
+  },
+  {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "routine"
+  },
+  {
+   "agent": "chopper",
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
+  },
+  {
    "agent": "franky",
-   "n": 2,
-   "on": "2026-11-12",
-   "type": "franky_fixed"
+   "n": 1,
+   "on": "2026-11-13",
+   "type": "routine"
   },
   {
-   "agent": "franky",
+   "agent": "korosensei",
    "n": 1,
-   "on": "2026-11-12",
-   "type": "franky_fixed"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-12",
+   "on": "2026-11-13",
    "type": "routine"
   },
   {
    "agent": "nami",
    "n": 1,
-   "on": "2026-11-12",
+   "on": "2026-11-13",
    "type": "routine"
   },
   {
    "agent": "nami",
    "n": 1,
-   "on": "2026-11-12",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-12",
-   "type": "routine"
-  },
-  {
-   "agent": "franky",
-   "n": 1,
-   "on": "2026-11-12",
-   "type": "franky_fixed"
-  },
-  {
-   "agent": "franky",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "franky_fixed"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-11",
+   "on": "2026-11-13",
    "type": "routine"
   }
  ],
- "generated_on": "2026-11-12",
+ "generated_on": "2026-11-17",
  "last_action": {
-  "agent": "franky",
-  "on": "2026-11-12"
+  "agent": "vegapunk",
+  "on": "2026-11-17"
  },
  "machine": "machine-2",
  "metrics": {
   "pre_review_blocks": 0,
-  "prs_fixed": 4,
+  "prs_fixed": 3,
   "qa_catches": 0,
-  "tasks": 5
+  "tasks": 3
  },
  "sector": "Engineering",
  "window_days": 7
