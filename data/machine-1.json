@@ -12,85 +12,85 @@
   {
    "agent": "robin",
    "n": 1,
-   "on": "2026-11-13",
+   "on": "2026-11-17",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "routine"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-17",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-16",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-16",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-16",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-16",
    "type": "routine"
   },
   {
    "agent": "robin",
    "n": 1,
-   "on": "2026-11-13",
+   "on": "2026-11-16",
    "type": "routine"
   },
   {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "vegapunk",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "chopper",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
+   "agent": "franky",
+   "n": 4,
+   "on": "2026-11-16",
+   "type": "franky_fixed"
   },
   {
    "agent": "korosensei",
    "n": 1,
-   "on": "2026-11-13",
+   "on": "2026-11-16",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-16",
    "type": "routine"
   }
  ],
- "generated_on": "2026-11-13",
+ "generated_on": "2026-11-17",
  "last_action": {
   "agent": "robin",
-  "on": "2026-11-13"
+  "on": "2026-11-17"
  },
  "machine": "machine-1",
  "metrics": {
   "pre_review_blocks": 1,
-  "prs_fixed": 1,
+  "prs_fixed": 2,
   "qa_catches": 0,
   "tasks": 10
  },
