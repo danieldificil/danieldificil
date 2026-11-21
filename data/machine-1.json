@@ -12,87 +12,87 @@
   {
    "agent": "vegapunk",
    "n": 1,
-   "on": "2026-11-18",
+   "on": "2026-11-20",
    "type": "routine"
   },
   {
    "agent": "chopper",
    "n": 1,
-   "on": "2026-11-18",
+   "on": "2026-11-20",
    "type": "routine"
   },
   {
    "agent": "korosensei",
    "n": 1,
-   "on": "2026-11-18",
-   "type": "routine"
-  },
-  {
-   "agent": "vegapunk",
-   "n": 1,
-   "on": "2026-11-18",
-   "type": "task"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-18",
+   "on": "2026-11-20",
    "type": "routine"
   },
   {
    "agent": "franky",
    "n": 1,
-   "on": "2026-11-18",
-   "type": "routine"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-18",
+   "on": "2026-11-20",
    "type": "routine"
   },
   {
    "agent": "nami",
    "n": 1,
-   "on": "2026-11-18",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-18",
+   "on": "2026-11-20",
    "type": "routine"
   },
   {
    "agent": "korosensei",
    "n": 1,
-   "on": "2026-11-18",
-   "type": "task"
+   "on": "2026-11-20",
+   "type": "routine"
   },
   {
-   "agent": "robin",
+   "agent": "nami",
    "n": 1,
-   "on": "2026-11-18",
+   "on": "2026-11-20",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-19",
    "type": "routine"
   },
   {
    "agent": "robin",
    "n": 1,
-   "on": "2026-11-18",
+   "on": "2026-11-19",
    "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-19",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-19",
+   "type": "routine"
+  },
+  {
+   "agent": "franky",
+   "n": 1,
+   "on": "2026-11-19",
+   "type": "franky_fixed"
   }
  ],
- "generated_on": "2026-11-18",
+ "generated_on": "2026-11-20",
  "last_action": {
   "agent": "vegapunk",
-  "on": "2026-11-18"
+  "on": "2026-11-20"
  },
  "machine": "machine-1",
  "metrics": {
   "pre_review_blocks": 2,
-  "prs_fixed": 1,
+  "prs_fixed": 3,
   "qa_catches": 0,
-  "tasks": 9
+  "tasks": 11
  },
  "sector": "Engineering",
  "window_days": 7
