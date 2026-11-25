@@ -11,89 +11,77 @@
  ],
  "events": [
   {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-18",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-18",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-18",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-18",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-18",
+   "type": "routine"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-18",
+   "type": "routine"
+  },
+  {
    "agent": "vegapunk",
    "n": 1,
-   "on": "2026-11-17",
+   "on": "2026-11-18",
    "type": "task"
   },
   {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-18",
+   "type": "delivery"
+  },
+  {
    "agent": "vegapunk",
    "n": 1,
-   "on": "2026-11-17",
+   "on": "2026-11-18",
    "type": "task"
   },
   {
    "agent": "nami",
    "n": 1,
-   "on": "2026-11-17",
-   "type": "routine"
-  },
-  {
-   "agent": "robin",
-   "n": 1,
-   "on": "2026-11-17",
-   "type": "routine"
-  },
-  {
-   "agent": "vegapunk",
-   "n": 1,
-   "on": "2026-11-17",
-   "type": "task"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-17",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-17",
-   "type": "routine"
-  },
-  {
-   "agent": "chopper",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "franky",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-13",
-   "type": "routine"
+   "on": "2026-11-18",
+   "type": "delivery"
   }
  ],
- "generated_on": "2026-11-17",
+ "generated_on": "2026-11-24",
  "last_action": {
-  "agent": "vegapunk",
-  "on": "2026-11-17"
+  "agent": "nami",
+  "on": "2026-11-18"
  },
  "machine": "machine-2",
  "metrics": {
   "pre_review_blocks": 0,
-  "prs_fixed": 3,
+  "prs_fixed": 0,
   "qa_catches": 0,
-  "tasks": 3
+  "tasks": 2
  },
  "sector": "Engineering",
  "window_days": 7
