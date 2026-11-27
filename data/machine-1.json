@@ -10,89 +10,89 @@
  ],
  "events": [
   {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-25",
-   "type": "task"
-  },
-  {
    "agent": "nami",
    "n": 1,
-   "on": "2026-11-25",
+   "on": "2026-11-26",
    "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-25",
-   "type": "routine"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-25",
-   "type": "routine"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-25",
-   "type": "task"
-  },
-  {
-   "agent": "nami",
-   "n": 1,
-   "on": "2026-11-25",
-   "type": "routine"
-  },
-  {
-   "agent": "korosensei",
-   "n": 1,
-   "on": "2026-11-24",
-   "type": "task"
   },
   {
    "agent": "franky",
-   "n": 1,
-   "on": "2026-11-24",
-   "type": "franky_fixed"
-  },
-  {
-   "agent": "franky",
-   "n": 4,
-   "on": "2026-11-24",
+   "n": 5,
+   "on": "2026-11-26",
    "type": "franky_fixed"
   },
   {
    "agent": "korosensei",
    "n": 1,
-   "on": "2026-11-24",
+   "on": "2026-11-26",
    "type": "task"
-  },
-  {
-   "agent": "franky",
-   "n": 2,
-   "on": "2026-11-24",
-   "type": "franky_fixed"
   },
   {
    "agent": "korosensei",
    "n": 1,
-   "on": "2026-11-24",
+   "on": "2026-11-26",
    "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-26",
+   "type": "task"
+  },
+  {
+   "agent": "franky",
+   "n": 6,
+   "on": "2026-11-26",
+   "type": "franky_fixed"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-26",
+   "type": "routine"
+  },
+  {
+   "agent": "vegapunk",
+   "n": 1,
+   "on": "2026-11-26",
+   "type": "task"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-26",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-26",
+   "type": "routine"
+  },
+  {
+   "agent": "korosensei",
+   "n": 1,
+   "on": "2026-11-25",
+   "type": "task"
+  },
+  {
+   "agent": "nami",
+   "n": 1,
+   "on": "2026-11-25",
+   "type": "routine"
   }
  ],
- "generated_on": "2026-11-25",
+ "generated_on": "2026-11-26",
  "last_action": {
-  "agent": "korosensei",
-  "on": "2026-11-25"
+  "agent": "nami",
+  "on": "2026-11-26"
  },
  "machine": "machine-1",
  "metrics": {
-  "pre_review_blocks": 4,
-  "prs_fixed": 3,
+  "pre_review_blocks": 5,
+  "prs_fixed": 4,
   "qa_catches": 0,
-  "tasks": 12
+  "tasks": 14
  },
  "sector": "Engineering",
  "window_days": 7
